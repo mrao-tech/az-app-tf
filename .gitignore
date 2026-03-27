@@ -8,8 +8,11 @@
 *.tfstate.backup
 .terraform/
 *.tfvars
+.terraform.lock.hcl
+
 # Node artifact files
 node_modules/
+
 dist/
 
 # Compiled Java class files
